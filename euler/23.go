@@ -1,6 +1,5 @@
 package main
 
-
 func div_sum(n int) int {
 	div := 1
 	sum := 0
